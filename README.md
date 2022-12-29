@@ -5,7 +5,7 @@
 Clone using git
 
 ```
-    $ git clone https://github.com/ridwanobafunso/cache-queue-with-redis.git
+    $ git clone https://github.com/0xridwanobafunso/cache-queue-with-redis.git
 ```
 
 ## Contributor
